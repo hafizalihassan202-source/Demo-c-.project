@@ -1,0 +1,15 @@
+building_id,building_name,priority,previous_reading,current_reading
+1,Main Library,1,12000,12450
+2,Computer Lab Block,1,8000,8950
+3,Boys Hostel,2,20000,20900
+4,Girls Hostel,2,19000,19700
+5,Cafeteria,3,5000,5320
+6,Sports Complex,3,3000,3150
+7,Admin Block,2,7000,7280
+8,Workshop,3,9000,8800
+9,Mosque Hall,3,1000,1100
+10,Auditorium,3,2000,abc
+11,,2,100,200
+12,Medical Centre,1,4000,4400
+13,Old Store,5,100,150
+3,Duplicate Hostel,2,100,200
